@@ -58,10 +58,10 @@
 					<div>
 						<div class="pt-md-3 d-flex justify-content-center align-items-center">
 							<img src="/img/pixelfed-icon-color.svg" loading="lazy" width="50px" height="50px">
-							<span class="font-weight-bold h3 ml-2 pt-2">Pixelfed</span>
+							<span class="font-weight-bold h3 ml-2 pt-2">{{ config('app.name', 'Pixelfed') }}</span>
 						</div>
 						<div class="d-block d-md-none">
-							<p class="font-weight-bold mb-0 text-center">Photo Sharing. For Everyone</p>
+							<p class="font-weight-bold mb-0 text-center">{{ config_cache('about.title') ?? 'Photo Sharing. For Everyone' }}</p>
 						</div>
 						<div class="card my-4 shadow-none border">
 							<div class="card-body px-lg-5">
