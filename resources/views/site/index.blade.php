@@ -50,8 +50,8 @@
 			<div class="row pt-md-5 mt-5">
 				<div class="col-12 col-md-6 d-none d-md-block">
 					<div class="m-my-4">
-						<p class="display-2 font-weight-bold">Photo Sharing</p>
-						<p class="h1 font-weight-bold">For Everyone.</p>
+						<p class="display-2 font-weight-bold">何気ない写真、<br>とっておきの作品</p>
+						<p class="h1 font-weight-bold">気軽に共有しませんか？</p>
 					</div>
 				</div>
 				<div class="col-12 col-md-5 offset-md-1">
